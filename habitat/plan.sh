@@ -1,5 +1,5 @@
 pkg_name=sample-node-app
-pkg_origin=nitesh009
+pkg_origin=nk009
 pkg_scaffolding="core/scaffolding-node"
 pkg_version="1.0.1"
 
